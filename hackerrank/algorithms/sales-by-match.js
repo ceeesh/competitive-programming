@@ -56,4 +56,4 @@ function sockMerchant(n, ar) {
   return pairs
 }
 
-// My Explanation: The function counts the number of pairs of socks with matching colors. It does this by keeping track of the number of socks of each color in the `socks` object. Whenever it finds an even count of a particular color, it increments the `pairs` counter.
+// My Explanation: The function counts the number of pairs of socks with matching colors. It does this by keeping track of the number of socks of each color in the `socks` object. Whenever it finds an even count of a particular color, it increments the `pairs` counter
